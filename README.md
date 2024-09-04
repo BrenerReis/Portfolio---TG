@@ -51,9 +51,13 @@ Os requisitos definidos para a aplicação incluíam o uso das linguagens **Pyth
 
 ### **Tecnologias Utilizadas**
 
-| **Figma** | **VSCode** | **HTML** | **CSS** | **Git** | **GitHub** | **Python** | **JavaScript** |
-|-----------|------------|----------|---------|---------|------------|------------|----------------|
-| ![Figma](https://img.icons8.com/?size=100&id=snB4bDeuO6gJ&format=png&color=000000) | ![VSCode](https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000) | ![HTML](https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000) | ![CSS](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000) | ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) | ![GitHub](https://img.icons8.com/?size=100&id=12599&format=png&color=000000) | ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) | ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) |
+| **Figma** | **VSCode** | **HTML** | **CSS** |
+|:---------:|:----------:|:--------:|:-------:|
+| ![Figma](https://img.icons8.com/?size=100&id=snB4bDeuO6gJ&format=png&color=000000) | ![VSCode](https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000) | ![HTML](https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000) | ![CSS](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000) |
+| Utilizado para desenvolver o protótipo apresentado ao cliente. | Utilizado para o desenvolvimento do código de todo o projeto. | Utilizado para a criação da estrutura do catálogo de vagas. | Utilizado para estilizar e melhorar a apresentação visual das páginas criadas com HTML, controlando cores, fontes e layout. |
+| **Git** | **GitHub** | **Python** | **JavaScript** |
+| ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) | ![GitHub](https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000) | ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) | ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) |
+| Utilizado para gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações e tornando o desenvolvimento mais organizado. | Utilizado para a hospedagem do código-fonte, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores. | Utilizado para a raspagem de dados (Web-Scraping) das vagas de emprego e dos cursos pela internet. | Utilizado para criar gráficos que mostram dados sobre as vagas catalogadas no site. |
 
 ---
 
