@@ -39,15 +39,27 @@ Antes de me dedicar à programação, trabalhei em diversas áreas que, embora m
 |-----------------|----------------|----------------|-----------------|-----------------|----------------|----------------|-----------------|----------------|
 | ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) | ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) | ![Node.js](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000) | ![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000) | ![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000) | ![DBeaver](https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000) | ![Java](https://img.icons8.com/?size=100&id=46630&format=png&color=000000) | ![Figma](https://img.icons8.com/?size=100&id=snB4bDeuO6gJ&format=png&color=000000) | ![Canva](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000) |
 
-## **Projetos**
+## **2022 - 1º Sprint**
 
-**2022 - 1º Sprint**
+**Parceiro acadêmico - Fatec**
+
+A Fatec São José dos Campos é uma faculdade pública voltada para cursos tecnológicos, com destaque para o API (projeto integrador), que conecta alunos a empresas parceiras. No API, as empresas apresentam desafios reais, e os alunos desenvolvem soluções em forma de software para resolver esses problemas. Essa parceria entre a Fatec e o mercado de trabalho proporciona uma experiência prática e prepara os estudantes para atender às demandas tecnológicas das indústrias da região.
+
+
+**Projeto**
 
 O projeto envolveu o desenvolvimento de um sistema web para facilitar a catalogação de vagas em diversas profissões, com um foco especial na área de TI. O objetivo era proporcionar aos usuários uma maneira eficiente de encontrar vagas de seu interesse, configurando métricas relacionadas a conhecimentos, habilidades e competências. O sistema foi projetado para apresentar essas informações de forma estratégica em gráficos, priorizando a usabilidade para um público diversificado em termos de idade e formação. 
 
 Os requisitos definidos para a aplicação incluíam o uso das linguagens **Python**, **HTML** e **CSS**, além do framework **Bootstrap**. O projeto foi documentado em detalhes e disponibilizado no **GitHub**, abrangendo todos os processos necessários para atender às especificações do cliente. A estrutura do sistema deveria ter no mínimo cinco páginas: Página principal do projeto, Vagas de Emprego, Cursos e Certificações, Métricas (incluindo conhecimentos necessários, habilidades e requisitos), e Localização das vagas e cursos. Além disso, a apresentação do projeto foi realizada de forma presencial.
 
 Você pode acessar o projeto [clicando aqui](https://github.com/LittleTech10/API--1-ADS)
+
+
+**Resolução**
+
+A resolução para o projeto envolveu o uso de Python em conjunto com Flask para realizar a raspagem de dados das vagas e cursos, permitindo a coleta e organização eficiente das informações. JavaScript foi empregado para gerar os gráficos e implementar filtros interativos, que facilitam a visualização e o ajuste das métricas, como conhecimentos e habilidades.
+O desenvolvimento do sistema contou com uma forte colaboração da equipe, onde cada membro contribuiu com suas especialidades. Essa abordagem colaborativa resultou em uma solução robusta, documentada no GitHub e apresentada presencialmente, atendendo às expectativas do cliente e proporcionando uma experiência de usuário simplificada e eficiente.
+
 
 ---
 
