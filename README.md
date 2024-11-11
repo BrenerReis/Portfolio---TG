@@ -117,10 +117,6 @@ Além disso, estive envolvido nas reuniões regulares, nas quais discutíamos e 
 
 
 
-
-
-
-
 ## **2022 - 2º Semestre**  
 ### **Parceiro Acadêmico – TrackCash**
 
@@ -144,18 +140,14 @@ O desenvolvimento em equipe resultou na criação de um **aplicativo mobile intu
 
 ### **Tecnologias Utilizadas:**
 
-| **Tecnologia**     | **Descrição**                                                                                      |
-|--------------------|---------------------------------------------------------------------------------------------------|
-| **Java**           | Linguagem de programação principal do projeto.                                                   |
-| **Java Swing**     | Conjunto de bibliotecas e ferramentas para a construção da interface gráfica.                     |
-| **NetBeans**       | Ambiente de Desenvolvimento Integrado (IDE) utilizado para programação.                         |
-| **MySQL**          | Sistema de gerenciamento de banco de dados.                                                      |
-| **Canva**          | Ferramenta utilizada para prototipação de designs.                                              |
-| **Pacote Office**  | Utilizado para a gestão da equipe e documentação.                                               |
-| **Git**            | Ferramenta para versionamento de código.                                                         |
-| **GitHub**         | Plataforma para armazenamento do projeto e registro da documentação.                             |
-| **Discord**        | Ferramenta de comunicação interna da equipe.                                                     |
-| **Slack**          | Ferramenta de comunicação entre o Product Owner e o cliente.                                    |
+| **Java** | **Java Swing** | **NetBeans** | **MySQL** | **Canva** |
+|:---------:|:--------------:|:------------:|:---------:|:--------:|
+| ![Java](https://img.icons8.com/?size=100&id=46630&format=png&color=000000) | ![Java Swing](https://img.icons8.com/?size=100&id=13679&format=png&color=000000) | ![NetBeans](https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000) | ![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000) | ![Canva](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000) |
+| Linguagem de programação principal do projeto. | Conjunto de bibliotecas e ferramentas para a construção da interface gráfica. | Ambiente de Desenvolvimento Integrado (IDE) utilizado para programação. | Sistema de gerenciamento de banco de dados. | Ferramenta utilizada para prototipação de designs. |
+| **Pacote Office** | **Git** | **GitHub** | **Discord** | **Slack** |
+| ![Pacote Office](https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000) | ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) | ![GitHub](https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000) | ![Discord](https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000) | ![Slack](https://img.icons8.com/?size=100&id=FrrWYTyu3vLa&format=png&color=000000) |
+| Utilizado para a gestão da equipe e documentação. | Ferramenta para versionamento de código. | Plataforma para armazenamento do projeto e registro da documentação. | Ferramenta de comunicação interna da equipe. | Ferramenta de comunicação entre o Product Owner e o cliente. |
+
 
 
 ---
@@ -207,20 +199,19 @@ Desenvolvemos uma interface de gerenciamento intuitiva que segue os parâmetros 
 
 ### Tecnologias Utilizadas
 
-| **Tecnologia**       | **Descrição**                                                                 |
-|----------------------|-------------------------------------------------------------------------------|
-| Node.js              | Ambiente de execução para desenvolvimento no front-end e back-end.           |
-| JavaScript           | Linguagem de programação principal utilizada para a construção de funcionalidades. |
-| React                | Biblioteca para desenvolvimento da interface do usuário no front-end.         |
-| TypeScript           | Linguagem auxiliar para adicionar tipagem estática e melhorar a robustez do código. |
-| PostgreSQL           | Sistema de gerenciamento de banco de dados.                                   |
-| DBEaver              | Ferramenta para gerenciamento e visualização de bancos de dados.              |
-| Canva                | Ferramenta para prototipação de designs e layouts.                           |
-| Pacote Office        | Utilizado para gestão da equipe e documentação do projeto.                    |
-| Git                  | Sistema de versionamento de código.                                           |
-| GitHub               | Plataforma para armazenamento do projeto e registro da documentação.          |
-| Discord              | Ferramenta de comunicação para interação entre os membros da equipe.          |
-| Slack                | Ferramenta de comunicação entre o Product Owner e o cliente.                 |
+| **Node**              | **JavaScript**         | **React**            | **TypeScript**        |
+|:---------------------:|:----------------------:|:--------------------:|:---------------------:|
+| ![Node](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000) | ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) | ![React](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000) | ![TypeScript](https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000) |
+| Ambiente de execução para desenvolvimento do back-end. | Linguagem de programação principal utilizada para a construção de funcionalidades. | Biblioteca para desenvolvimento da interface do usuário no front-end. | Linguagem auxiliar para adicionar tipagem estática e melhorar a robustez do código. |
+| **PostgreSQL**        | **DBEaver**           | **Canva**             | **Pacote Office**     |
+| ![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000) | ![DBEaver](https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000) | ![Canva](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000) | ![Pacote Office](https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000) |
+| Sistema de gerenciamento de banco de dados. | Ferramenta para gerenciamento e visualização de bancos de dados. | Ferramenta para prototipação de designs e layouts. | Utilizado para gestão da equipe e documentação do projeto. |
+| **Git**               | **GitHub**            | **Discord**           | **Slack**             |
+| ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) | ![GitHub](https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000) | ![Discord](https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000) | ![Slack](https://img.icons8.com/?size=100&id=FrrWYTyu3vLa&format=png&color=000000) |
+| Sistema de versionamento de código. | Plataforma para armazenamento do projeto e registro da documentação. | Ferramenta de comunicação para interação entre os membros da equipe. | Ferramenta de comunicação entre o Product Owner e o cliente. |
+
+
+
 
 ---
 
@@ -276,18 +267,15 @@ A plataforma incentiva a reciclagem por meio de um sistema de créditos, onde es
 
 ### Tecnologias Utilizadas
 
-| **Tecnologia**       | **Descrição**                                                                 |
-|----------------------|-------------------------------------------------------------------------------|
-| Node.js              | Ambiente de execução.                                                         |
-| JavaScript           | Linguagem de programação utilizada no front-end e back-end.                  |
-| React                | Biblioteca para desenvolvimento do front-end.                                 |
-| MySQL                | Banco de dados para armazenar as informações.                                 |
-| Canva                | Ferramenta para prototipação.                                                |
-| Pacote Office        | Gestão da equipe.                                                             |
-| Git                  | Controle de versionamento do código.                                          |
-| GitHub               | Armazenamento do projeto e registro de documentação.                          |
-| Discord              | Comunicação da equipe.                                                        |
-| Slack                | Comunicação entre Product Owner e cliente.                                    |
+| **Node.js**          | **JavaScript**         | **React**            | **MySQL**            | **Canva**             |
+|:---------------------:|:----------------------:|:--------------------:|:--------------------:|:---------------------:|
+| ![Node.js](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000) | ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) | ![React](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000) | ![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000) | ![Canva](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000) |
+| Ambiente de execução para desenvolvimento do back-end. | Linguagem de programação utilizada no front-end e back-end. | Biblioteca para desenvolvimento do front-end. | Banco de dados para armazenar as informações. | Ferramenta para prototipação. |
+| **Pacote Office**     | **Git**               | **GitHub**           | **Discord**          | **Slack**             |
+| ![Pacote Office](https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000) | ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) | ![GitHub](https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000) | ![Discord](https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000) | ![Slack](https://img.icons8.com/?size=100&id=FrrWYTyu3vLa&format=png&color=000000) |
+| Gestão da equipe.     | Controle de versionamento do código. | Armazenamento do projeto e registro de documentação. | Comunicação da equipe. | Comunicação entre Product Owner e cliente. |
+
+
 
 ---
 
