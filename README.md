@@ -348,32 +348,34 @@ Desenvolvemos um projeto com o objetivo de fornecer à Oracle uma visão clara d
 
 ### Contribuições
 
-Contribuí significativamente para o desenvolvimento do **front-end** utilizando React e implementei funções no **back-end** com JavaScript. Também:  
-- Participei ativamente das reuniões de equipe para alinhar o progresso.  
-- Realizei testes de confiabilidade e manutenção do código.  
-- Colaborei na criação e atualização do banco de dados utilizando MongoDB.  
-- Mantive uma arquitetura de código limpa e organizada.  
+Neste projeto, concentrei minha atuação principalmente no back-end, contribuindo com a implementação do CRUD utilizando o banco de dados MongoDB, um banco não relacional, que trouxe desafios e aprendizado no gerenciamento de dados. Além disso, implementei o Expo para facilitar o desenvolvimento do projeto, promovendo uma integração mais eficiente entre todos os membros da equipe.
+
+Fui responsável pela autenticação de usuários e pela criptografia de senhas, utilizando técnicas de segurança para garantir a proteção dos dados. Também implementei a funcionalidade de recuperação de senha.
+
+No front-end, colaborei na criação de páginas e tabelas dinâmicas, que puxavam informações diretamente do banco de dados, tornando a interface mais interativa e útil para os usuários. Trabalhei de forma colaborativa com outro membro do time, dividindo as tarefas para garantir a entrega das funcionalidades de forma eficiente e dentro do prazo.
+
+Por fim, mantive o projeto com um código limpo e organizado, separando as pastas de forma estruturada, como controller, user, repository e database, garantindo um fluxo de trabalho mais claro e facilitando a manutenção futura.
 
 ---
 
 ### Hard Skills
 
-- **MongoDB:** Gerenciamento de banco de dados.  
-- **JavaScript:** Desenvolvimento de funcionalidades no front-end e back-end.  
-- **React:** Criação de interfaces dinâmicas e responsivas.  
-- **REST:** Testes de APIs para garantir o funcionamento.  
-- **Git/GitHub:** Controle de versionamento e registro do projeto.  
-- **Android Studio/Expo:** Emulação e testes do aplicativo móvel.  
+- **MongoDB:** Média autonomia. Por ser uma ferramenta nova, precisei aprender durante o projeto, mas consegui utilizá-la de forma eficiente para o que o projeto demandava.
+- **JavaScript:** Média autonomia. Por ser uma linguagem ampla, ainda havia muitas coisas para aprender, mas consegui aplicar com autonomia para as funcionalidades necessárias no projeto.
+- **React:** Baixa autonomia. Algumas partes do projeto no front-end exigiram apoio dos colegas de equipe, especialmente nas questões mais avançadas.
+- **REST:** Total autonomia. Fui completamente autossuficiente ao realizar os testes das APIs e garantir que elas funcionassem corretamente.
+- **Git/GitHub:** Total autonomia. Consegui gerenciar o versionamento do projeto, fazer commits e subir todas as minhas alterações de forma eficiente.
+- **Android Studio/Expo:** Média autonomia. Precisei pesquisar e entender melhor essas ferramentas durante o projeto, mas, com o tempo, consegui utilizá-las de forma eficaz para atender às necessidades do projeto.
 
 ---
 
 ### Soft Skills
 
-- **Colaboração em equipe:** Trabalhei eficazmente com os membros do grupo.  
-- **Comunicação clara:** Melhorei a objetividade nas interações com o time e cliente.  
-- **Proatividade:** Identifiquei e resolvi problemas antes de se tornarem críticos.  
-- **Gestão de tempo:** Priorização eficiente de tarefas e cumprimento de prazos.  
-- **Resolução de problemas:** Encontrei soluções criativas para desafios complexos.  
+- **Organização:** Fui organizado e consegui entregar minhas partes dentro dos prazos estabelecidos, conforme o burndown.
+- **Adaptação:** Consegui me adaptar bem a ferramentas novas, como MongoDB, Android Studio e Expo, aprendendo conforme as necessidades do projeto.
+- **Paciência:** Mantive a calma para aprender novas ferramentas e conceitos, além de ajudar meus colegas com suas funções quando necessário.
+- **Resolução de Problemas:** Desenvolvi lógicas de programação eficientes e consegui resolver debugs durante o desenvolvimento.
+
 
 
 
