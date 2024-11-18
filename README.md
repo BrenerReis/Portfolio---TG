@@ -95,26 +95,25 @@ O desenvolvimento do sistema contou com uma forte colaboração da equipe, onde 
 
 ### **Contribuições**
 
-Contribuí significativamente para a criação de páginas dinâmicas e responsivas no sistema, utilizando HTML, CSS e Bootstrap para o layout e estilização. Desenvolvi a funcionalidade da barra de pesquisa avançada, que permite filtrar resultados com base em palavras-chave, categorias e outros parâmetros. Essa barra foi implementada com JavaScript, empregando manipulação do DOM e integração com o banco de dados para exibir resultados em tempo real.
+Contribuí para a criação de páginas dinâmicas e responsivas no sistema, utilizando HTML, CSS e Bootstrap para o layout e estilização. Desenvolvi a funcionalidade da barra de pesquisa avançada, que permite filtrar resultados com base em palavras-chave, categorias e outros parâmetros. Essa barra foi implementada com JavaScript, empregando manipulação do DOM e integração com o banco de dados para exibir resultados em tempo real.
 
-Além disso, participei do processo de raspagem de dados utilizando Python em conjunto com bibliotecas como BeautifulSoup e Pandas, o que permitiu coletar informações de várias fontes web, tratá-las e integrá-las ao sistema de forma estruturada. Essa integração garantiu que os dados fossem consistentes e atualizados, atendendo aos critérios definidos para o projeto.
+Além disso, participei do processo de raspagem de dados utilizando Python em conjunto com a biblioteca BeautifulSoup, o que permitiu coletar informações de várias fontes web, tratá-las e integrá-las ao sistema de forma estruturada. Essa integração garantiu que os dados fossem consistentes e atualizados, atendendo aos critérios definidos para o projeto.
 
 ---
 
 ### **Hard Skills**
 
-**Desenvolvimento Web:** Utilização de **HTML5** e **CSS3** para contribuir efetivamente no projeto.
-**JavaScript:** Implementação de funcionalidades como a barra de pesquisa, com foco em melhorar a interatividade e a experiência do usuário.
-**Raspagem de Dados:** Conhecimento básico em **Python** para a realização de raspagem de dados, incluindo técnicas fundamentais para extrair e integrar informações de sites.
+- **Desenvolvimento Web:** Utilizei **HTML5** e **CSS3** para criar componentes básicos do sistema, como layouts e estilizações. Tinha baixa autonomia nesse estágio e dependia de orientações frequentes para implementar soluções corretamente.  
+- **JavaScript:** Desenvolvi a barra de pesquisa do sistema, adicionando funcionalidades para buscas eficientes e intuitivas. Apesar de ter uma autonomia intermediária, ainda necessitava de suporte em questões mais complexas.  
+- **Raspagem de Dados:** Fiz uso de **Python** para realizar a raspagem de dados, mas minha compreensão da ferramenta e das bibliotecas como **BeautifulSoup** era bem inicial. Embora tenha conseguido fazer a extração de dados, ainda enfrentei muitos desafios técnicos e precisei de bastante ajuda.
 
 ---
 
 ### **Soft Skills**
 
-Durante o projeto, atuei como desenvolvedor e participei ativamente das sprints, onde tarefas foram atribuídas a cada membro com base no backlog do produto. Concluí minhas tarefas dentro dos prazos estabelecidos, o que foi crucial para aprimorar minhas habilidades de gerenciamento de tempo e garantir a eficiência nas entregas. Essa experiência foi fundamental para melhorar minha capacidade de organizar e gerenciar minhas atividades de maneira produtiva.
-
-Além disso, estive envolvido nas reuniões regulares, nas quais discutíamos e alinhávamos os próximos passos do projeto. Essas reuniões foram essenciais para promover uma comunicação clara e garantir um trabalho em equipe eficiente. A participação ativa nesses encontros fortaleceu minhas habilidades de colaboração e adaptabilidade em um ambiente ágil, permitindo-me contribuir de forma mais eficaz para o sucesso do projeto.
-
+- **Organização:** Fui capaz de ajudar a equipe a manter os prazos em dia, acompanhando o progresso por meio do burndown e garantindo que as dependências entre as tarefas fossem resolvidas. Sempre busquei antecipar as necessidades do time, ajudando a evitar atrasos e mantendo o fluxo de trabalho bem organizado.
+- **Comunicação:** Tive o cuidado de manter a equipe sempre informada sobre o andamento do desenvolvimento, compartilhando desafios e soluções enquanto trabalhava no código.
+- **Adaptação:** Por ser iniciante em desenvolvimento web, me desafiei a aprender rapidamente as tecnologias que precisávamos para o projeto. Estudei e implementei a barra de pesquisa, além de me aprofundar em HTML, CSS e raspagem de dados. Essa adaptação constante foi importante para que eu pudesse contribuir, mesmo com minha experiência inicial na área.
 
 ---
 
@@ -154,26 +153,22 @@ O desenvolvimento em equipe resultou na criação de um **aplicativo mobile intu
 ---
 
 ### **Contribuições:**
-Durante o projeto, foquei no desenvolvimento, com ênfase nas funções de **backend** e no gerenciamento do **banco de dados**. Participei das reuniões semanais para alinhar o progresso com a equipe e atendi às solicitações do Scrum Master, conforme as necessidades do projeto.
+Contribuí para o desenvolvimento do backend utilizando Java, implementando funcionalidades como filtros de texto para pesquisa, com lógica eficiente para refinar os resultados retornados aos usuários. Trabalhei diretamente na integração com o banco de dados MySQL, assegurando uma conexão estável e funcional sem o uso de bibliotecas externas. Além disso, colaborei no planejamento e na sugestão de ideias para a estrutura do CRUD e o design das tabelas, alinhando as necessidades do sistema às boas práticas de desenvolvimento.
 
 ---
 
 ### **Hard Skills:**
-- **Desenvolvimento Mobile**: Utilização de **Java** para a criação de funcionalidades e a implementação do backend do aplicativo.  
-- **Documentação**: Registro e versionamento do código através do **GitHub**, garantindo o controle das alterações e a colaboração eficiente.  
-- **Banco de Dados**: Gerenciamento e estruturação de dados utilizando **MySQL**, assegurando a integridade e a acessibilidade das informações.
+- **Desenvolvimento Mobile**: Com baixa autonomia, utilizei **Java** para implementar funcionalidades básicas no backend do aplicativo. Contava frequentemente com o suporte de colegas para superar dúvidas e ajustar a lógica das funcionalidades.  
+- **Banco de Dados**: Atuei com baixa autonomia no gerenciamento e estruturação de dados utilizando **MySQL**. Precisava de orientação para criar tabelas e garantir a integridade dos dados, mas aproveitei a experiência para desenvolver uma base sólida de conhecimento na área.
 
 ---
 
 ### **Soft Skills:**
 Durante o projeto, desenvolvi habilidades importantes, incluindo:
 
-- **Comunicação eficaz**: Participei ativamente das reuniões semanais para alinhar o progresso com a equipe e garantir que todos estivessem cientes das metas e dos requisitos.
-- **Colaboração em equipe**: Trabalhei em conjunto com os membros da equipe para integrar as diferentes partes do sistema e atender às solicitações do Scrum Master.
-- **Gestão de tempo**: Priorização e organização das tarefas de desenvolvimento para cumprir prazos e metas.
-- **Adaptabilidade**: Lidei com mudanças de requisitos e ajustes nas especificações do projeto.
-- **Resolução de problemas**: Identifiquei e resolvi desafios técnicos durante o desenvolvimento do backend e a manipulação de dados.
-
+- **Organização**: Consegui entregar as funções que me foram designadas conforme os prazos definidos no burndown, mantendo o foco nas tarefas essenciais e respeitando os tempos estipulados.  
+- **Colaboração**: Participei ativamente com ideias para o projeto, especialmente nas soluções do backend, contribuindo para o desenvolvimento e aprimoramento das funcionalidades.  
+- **Adaptação**: Me adaptei rapidamente a novas tecnologias, como **Java** e **MySQL**, superando desafios iniciais e aplicando o conhecimento adquirido para atender às demandas do projeto.
 
 ---
 
@@ -220,30 +215,30 @@ Desenvolvemos uma interface de gerenciamento intuitiva que segue os parâmetros 
 
 ### Contribuições
 
-Concentrei-me principalmente no desenvolvimento do **back-end** e na estruturação do **banco de dados**, garantindo uma base sólida e eficiente para a aplicação. Participei da análise de requisitos, testes e debug, assegurando que todas as funcionalidades estivessem em pleno funcionamento até a entrega do projeto.
+Concentrei-me principalmente no desenvolvimento do back-end e na estruturação do banco de dados, onde fui responsável pela implementação do CRUD do sistema utilizando a biblioteca Sequelize para interagir com o banco de dados. Para garantir a organização e a clareza do código, adotei boas práticas de separação de responsabilidades, estruturando o projeto em pastas como database, controllers, models, entre outras, o que facilitou a manutenção e compreensão do código.
+
+Além disso, contribui para a implementação de funcionalidades essenciais, como o redirecionamento das páginas, recuperação e alteração de senha. Utilizei bcrypt para criptografar as senhas dos usuários, garantindo maior segurança, e implementei a autenticação via token para validação de sessões. Embora minha principal atuação tenha sido no back-end, também participei do desenvolvimento de algumas páginas no front-end, sempre buscando integrar as duas partes de forma coesa e funcional.
 
 ---
 
 ### Hard Skills
 
-- **VSCode:** Ambiente principal para a gestão e desenvolvimento de código.
-- **Node.js:** Utilizado para o desenvolvimento do back-end.
-- **React:** Desenvolvimento da interface no front-end.
-- **JavaScript:** Implementação das funcionalidades do back-end.
-- **Sequelize:** Manipulação e consulta de dados com PostgreSQL.
-- **Insomnia:** Teste das APIs.
-- **DBEaver:** Visualização e gerenciamento dos dados.
+- **VSCode**: Utilize para a gestão e desenvolvimento do código. Atuei com **total autonomia** nesse projeto, organizando e escrevendo o código de forma eficiente e estruturada.
+- **Node.js**: Atuei no desenvolvimento interno do back-end, implementando bibliotecas e realizando testes internos. Trabalhei com **média autonomia**, pois era uma ferramenta nova para mim e fui aprendendo conforme as sprints.
+- **React**: Não tenho muita experiência com front-end, então minha contribuição foi limitada. Meu nível de autonomia foi **baixa**, com o apoio da equipe para ajudar nas implementações.
+- **JavaScript**: Tenho noção de JavaScript, mas ainda estava aprendendo algumas partes mais avançadas. Usei com **média autonomia**, focando principalmente no back-end e no desenvolvimento das funcionalidades.
+- **Sequelize**: Era uma ferramenta nova para mim, e apesar de estar no processo de aprendizagem, consegui usá-la com **média autonomia** para a criação do CRUD e a manipulação dos dados no banco.
+- **Insomnia**: Apesar de ser uma ferramenta nova para mim, achei fácil de utilizar. Trabalhei com **total autonomia** para testar e validar as APIs, garantindo que as funcionalidades estavam corretas.
+- **DBeaver**: Também uma ferramenta nova, mas fácil de aprender. Utilizei com **total autonomia** para gerenciar e visualizar os dados no banco de dados durante o projeto.
 
 ---
 
 ### Soft Skills
 
-- **Colaboração em equipe:** Trabalhei de forma constante com os outros membros, atendendo às solicitações do Scrum Master.
-- **Comunicação clara:** Participei de reuniões semanais para alinhar o progresso do time.
-- **Gestão de tempo:** Organizei minhas tarefas de forma eficiente para atender os prazos.
-- **Resolução de problemas:** Envolvimento na identificação e correção de bugs.
-- **Adaptabilidade:** Trabalhei com tecnologias novas e métodos aprimorados.
-
+- **Comunicação**: Fui comunicativo com a equipe, compartilhando informações sobre as funcionalidades do back-end e auxiliando os colegas a entender como utilizar as ferramentas que implementei no projeto.
+- **Organização**: Consegui entregar as minhas tarefas dentro do prazo estipulado no burndown, mantendo o fluxo do projeto em andamento de forma eficiente e sem sobrecarga.
+- **Resolução de Problemas**: Resolvi questões desafiadoras, como a implementação da criptografia das senhas e a correção de debugs no back-end, garantindo que as funcionalidades funcionassem de maneira correta e segura.
+- **Adaptação**: Este semestre foi o que mais consegui me adaptar às novas ferramentas e tecnologias. Estudei e apliquei novos conceitos, o que me permitiu entregar um bom resultado no projeto.
 
 ---
 
@@ -286,28 +281,30 @@ A plataforma incentiva a reciclagem por meio de um sistema de créditos, onde es
 
 ### Contribuições
 
-Contribuí significativamente para o desenvolvimento do **front-end** utilizando React, criando uma interface interativa. No **back-end**, trabalhei com JavaScript e participei da análise de requisitos, testes e manutenção do software.
+Fui responsável pela organização do back-end, implementando o CRUD do sistema e criando as tabelas necessárias no banco de dados. Além disso, desenvolvi funções específicas para conversões de valores, como a conversão de óleo e créditos, garantindo a precisão dos cálculos. Todas as funções foram criadas em colaboração com outro membro da equipe, com foco no desenvolvimento do back-end. Embora minha principal contribuição tenha sido no back-end, também participei de algumas atividades no front-end, como a criação de páginas e tabelas, com o suporte e a colaboração da equipe de front-end.
+
+
 
 ---
 
 ### Hard Skills
 
-- **REST:** Teste de APIs para garantir funcionamento.
-- **Node.js:** Desenvolvimento do back-end.
-- **JavaScript:** Criação das funções e lógica da aplicação.
-- **GitHub:** Controle de versão e armazenamento do código.
-- **React:** Desenvolvimento da interface visual.
-- **MySQL e Sequelize:** Criação e gerenciamento do banco de dados.
+- **REST**: Testei as APIs para garantir que estavam funcionando corretamente. Foi uma ferramenta nova, mas de fácil utilização, e consegui atuar com **total autonomia**.
+- **Node.js**: Fui responsável pelo desenvolvimento do **back-end**. Como já possuía experiência do semestre anterior, consegui atuar com **total autonomia** nesse projeto.
+- **JavaScript**: Criei as funções e a lógica da aplicação. Embora tenha **média autonomia** devido à complexidade da linguagem e à necessidade de aprender mais sobre suas particularidades, o uso no projeto foi bem direto e eficiente.
+- **GitHub**: Usei para controle de versão e armazenamento do código. No início, precisei de **ajuda** para subir os códigos, mas consegui rapidamente ganhar **média autonomia** ao longo do desenvolvimento.
+- **React**: Fui responsável por parte do **front-end**, criando páginas e manipulando rotas. Apesar de ser um aspecto mais novo para mim, tinha noção de criação de URLs e rotas, então atuei com **baixa autonomia** nesse aspecto.
+- **MySQL**: Fui responsável por gerenciar e estruturar o banco de dados. Tive **média autonomia**, pois apesar de já conhecer a ferramenta, o projeto exigiu algumas adaptações que consegui fazer com sucesso.
+- **Sequelize**: Utilizei para interagir com o banco de dados de forma eficiente, e por já ter experiência com a ferramenta, atuei com **total autonomia** nesse projeto.
 
 ---
 
 ### Soft Skills
 
-- **Colaboração em equipe:** Trabalhei eficazmente com outros membros.
-- **Comunicação clara:** Melhorei a objetividade nas interações.
-- **Gestão de tempo:** Organizei prazos e prioridades.
-- **Resolução de problemas:** Identifiquei e resolvi desafios técnicos.
-
+- **Colaboração**: Consegui colaborar de forma eficiente com a equipe, trabalhando de perto com outro membro para desenvolver a maior parte das funções. Nos ajudávamos mutuamente, trocando ideias e resolvendo os problemas de forma sincronizada, especialmente durante os debugs.
+- **Organização**: Sempre mantive um bom nível de organização, garantindo que entregasse minhas partes dentro do prazo estipulado, conforme o planejamento do burndown.
+- **Resolução de Problemas**: Fui capaz de criar lógicas de programação eficazes para resolver os debugs, além de propor ideias abstratas que ajudaram o time de front-end em algumas partes do projeto.
+- **Paciência**: Mantive a calma ao realizar minhas tarefas, sendo paciente ao ajudar outros membros da equipe com suas funções, sempre disposto a colaborar para o sucesso do projeto.
 
 ---
 
