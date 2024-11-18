@@ -14,7 +14,7 @@ Minha escolha por uma carreira em TI foi um processo gradual, influenciado pela 
 
 Antes de me dedicar à programação, trabalhei em diversas áreas que, embora me proporcionassem aprendizado, não traziam a satisfação que eu buscava. Ao iniciar meus estudos na área de TI, especialmente em programação, percebi que estava finalmente no caminho certo. A tecnologia, para mim, vai além do uso diário; ela é uma ferramenta poderosa para resolver problemas reais e transformar a maneira como vivemos. Com o mercado em constante crescimento, senti que era o momento certo para me envolver e contribuir com meu conhecimento e habilidades, buscando sempre aprender e me adaptar às novas demandas do setor.
 
-Experiência Profissional
+**Experiência Profissional**
 
 **Especialista em Atendimento** (06/2022 – 11/2023) | **Atento Brasil**
 
@@ -71,8 +71,7 @@ O projeto envolveu o desenvolvimento de um sistema web para facilitar a cataloga
 
 Os requisitos definidos para a aplicação incluíam o uso das linguagens **Python**, **HTML** e **CSS**, além do framework **Bootstrap**. O projeto foi documentado em detalhes e disponibilizado no **GitHub**, abrangendo todos os processos necessários para atender às especificações do cliente. A estrutura do sistema deveria ter no mínimo cinco páginas: Página principal do projeto, Vagas de Emprego, Cursos e Certificações, Métricas (incluindo conhecimentos necessários, habilidades e requisitos), e Localização das vagas e cursos. Além disso, a apresentação do projeto foi realizada de forma presencial.
 
-Você pode acessar o projeto [clicando aqui](https://github.com/LittleTech10/API--1-ADS)
-
+[Você pode acessar o projeto clicando aqui.](https://github.com/LittleTech10/API--1-ADS)
 
 **Resolução**
 
@@ -96,7 +95,9 @@ O desenvolvimento do sistema contou com uma forte colaboração da equipe, onde 
 
 ### **Contribuições**
 
-Contribuí significativamente para a criação das páginas do sistema, utilizando **HTML**, **CSS**, **Bootstrap** e **JavaScript**. Fiquei responsável pelo desenvolvimento da barra de pesquisa, implementada com JavaScript para garantir uma busca eficiente e intuitiva. Além disso, participei na raspagem de dados utilizando **Python**, o que foi essencial para a coleta e integração das informações no sistema.
+Contribuí significativamente para a criação de páginas dinâmicas e responsivas no sistema, utilizando HTML, CSS e Bootstrap para o layout e estilização. Desenvolvi a funcionalidade da barra de pesquisa avançada, que permite filtrar resultados com base em palavras-chave, categorias e outros parâmetros. Essa barra foi implementada com JavaScript, empregando manipulação do DOM e integração com o banco de dados para exibir resultados em tempo real.
+
+Além disso, participei do processo de raspagem de dados utilizando Python em conjunto com bibliotecas como BeautifulSoup e Pandas, o que permitiu coletar informações de várias fontes web, tratá-las e integrá-las ao sistema de forma estruturada. Essa integração garantiu que os dados fossem consistentes e atualizados, atendendo aos critérios definidos para o projeto.
 
 ---
 
@@ -115,6 +116,7 @@ Durante o projeto, atuei como desenvolvedor e participei ativamente das sprints,
 Além disso, estive envolvido nas reuniões regulares, nas quais discutíamos e alinhávamos os próximos passos do projeto. Essas reuniões foram essenciais para promover uma comunicação clara e garantir um trabalho em equipe eficiente. A participação ativa nesses encontros fortaleceu minhas habilidades de colaboração e adaptabilidade em um ambiente ágil, permitindo-me contribuir de forma mais eficaz para o sucesso do projeto.
 
 
+---
 
 
 ## **2022 - 2º Semestre**  
@@ -149,7 +151,6 @@ O desenvolvimento em equipe resultou na criação de um **aplicativo mobile intu
 | Utilizado para a gestão da equipe e documentação. | Ferramenta para versionamento de código. | Plataforma para armazenamento do projeto e registro da documentação. | Ferramenta de comunicação interna da equipe. | Ferramenta de comunicação entre o Product Owner e o cliente. |
 
 
-
 ---
 
 ### **Contribuições:**
@@ -173,6 +174,8 @@ Durante o projeto, desenvolvi habilidades importantes, incluindo:
 - **Adaptabilidade**: Lidei com mudanças de requisitos e ajustes nas especificações do projeto.
 - **Resolução de problemas**: Identifiquei e resolvi desafios técnicos durante o desenvolvimento do backend e a manipulação de dados.
 
+
+---
 
 
 ## 2023 - 1º Semestre
@@ -241,7 +244,9 @@ Concentrei-me principalmente no desenvolvimento do **back-end** e na estruturaç
 - **Resolução de problemas:** Envolvimento na identificação e correção de bugs.
 - **Adaptabilidade:** Trabalhei com tecnologias novas e métodos aprimorados.
 
+
 ---
+
 
 ## 2023 - 2º Semestre
 
@@ -302,6 +307,76 @@ Contribuí significativamente para o desenvolvimento do **front-end** utilizando
 - **Comunicação clara:** Melhorei a objetividade nas interações.
 - **Gestão de tempo:** Organizei prazos e prioridades.
 - **Resolução de problemas:** Identifiquei e resolvi desafios técnicos.
+
+
+---
+
+
+## 2024 - 1º Semestre
+
+### Parceiro Acadêmico: Oracle
+
+A **Oracle Corporation** é uma multinacional americana especializada em tecnologia da informação, fundada em 1977 por Larry Ellison, Bob Miner e Ed Oates. Amplamente reconhecida por seu sistema de gerenciamento de banco de dados relacional **Oracle Database**, a Oracle oferece soluções como:  
+- Sistemas de ERP (Enterprise Resource Planning) e CRM (Customer Relationship Management);  
+- Soluções em nuvem para infraestrutura, plataformas e aplicações;  
+- Ferramentas de desenvolvimento, como Java e Oracle JDeveloper.  
+
+---
+
+### Projeto
+
+O projeto visava desenvolver um aplicativo móvel para gerenciar os parceiros da Oracle, permitindo o cadastro de novos parceiros, a gestão de suas informações e a definição de um sistema de escalonamento gradual de seus conhecimentos. O principal desafio era a gestão insatisfatória dos parceiros de negócios, que apresentava falhas no cadastro, na atualização de informações, no acompanhamento do desenvolvimento profissional, na parametrização do nível de conhecimento e na geração de relatórios. A nova solução buscava aprimorar esses processos, oferecendo uma plataforma mais eficiente e organizada para a Oracle e seus parceiros.
+
+[Você pode acessar o projeto clicando aqui.](https://github.com/TechForce-ADS/Oracle)
+
+---
+
+### Resolução
+
+Desenvolvemos um projeto com o objetivo de fornecer à Oracle uma visão clara do nível de conhecimento de seus parceiros em áreas específicas. O sistema foi projetado para avaliar e exibir a proficiência dos parceiros, permitindo à Oracle entender melhor as competências e o desenvolvimento de cada um.
+
+---
+
+### Tecnologias Utilizadas
+
+| **MongoDB**          | **Android Studio**    | **JavaScript**       | **React**            | **Expo**             |
+|:---------------------:|:---------------------:|:--------------------:|:--------------------:|:--------------------:|
+| ![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000) | ![Android Studio](https://img.icons8.com/?size=100&id=xBW8JMtsQGFC&format=png&color=000000) | ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) | ![React](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000) | ![Expo](https://img.icons8.com/?size=100&id=hmieDPifBlBM&format=png&color=000000) |
+| Banco de dados para armazenar as informações. | Ambiente de desenvolvimento para emulação interna. | Linguagem utilizada no front-end e back-end. | Biblioteca para o desenvolvimento do front-end. | Ferramenta para emulação externa do aplicativo. |
+| **Canva**             | **Figma**            | **Git**              | **GitHub**           | **Slack**            |
+| ![Canva](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000) | ![Figma](https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000) | ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) | ![GitHub](https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000) | ![Slack](https://img.icons8.com/?size=100&id=FrrWYTyu3vLa&format=png&color=000000) |
+| Ferramenta para prototipação. | Design de interface e prototipação adicional. | Sistema de versionamento de código. | Armazenamento do projeto e documentação. | Comunicação entre Product Owner e cliente. |
+
+---
+
+### Contribuições
+
+Contribuí significativamente para o desenvolvimento do **front-end** utilizando React e implementei funções no **back-end** com JavaScript. Também:  
+- Participei ativamente das reuniões de equipe para alinhar o progresso.  
+- Realizei testes de confiabilidade e manutenção do código.  
+- Colaborei na criação e atualização do banco de dados utilizando MongoDB.  
+- Mantive uma arquitetura de código limpa e organizada.  
+
+---
+
+### Hard Skills
+
+- **MongoDB:** Gerenciamento de banco de dados.  
+- **JavaScript:** Desenvolvimento de funcionalidades no front-end e back-end.  
+- **React:** Criação de interfaces dinâmicas e responsivas.  
+- **REST:** Testes de APIs para garantir o funcionamento.  
+- **Git/GitHub:** Controle de versionamento e registro do projeto.  
+- **Android Studio/Expo:** Emulação e testes do aplicativo móvel.  
+
+---
+
+### Soft Skills
+
+- **Colaboração em equipe:** Trabalhei eficazmente com os membros do grupo.  
+- **Comunicação clara:** Melhorei a objetividade nas interações com o time e cliente.  
+- **Proatividade:** Identifiquei e resolvi problemas antes de se tornarem críticos.  
+- **Gestão de tempo:** Priorização eficiente de tarefas e cumprimento de prazos.  
+- **Resolução de problemas:** Encontrei soluções criativas para desafios complexos.  
 
 
 
